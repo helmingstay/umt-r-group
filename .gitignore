@@ -21,3 +21,6 @@ vignettes/*.pdf
 
 ## rproj for this repo
 umt-r-group.Rproj
+
+## rendered from README.md by Rstudio
+README.html
